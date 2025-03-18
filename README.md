@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areviik
-- 👀 I’m interested in: ML
-- 🌱 I’m currently learning: at 42 school
+- 👀 I’m interested in: ML and AI
+- 🌱 I’m currently learning: at 42 school and NPUA
 - 💞️ I’m looking to collaborate on: hmmm
 - 📫 How to reach me: please don't
 - 😄 Pronouns: she/her
